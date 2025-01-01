@@ -1,0 +1,24 @@
+#hd{
+  display: flex;
+  background-color: violet;
+}
+h1{
+  font-size: 70%;
+}
+#im{
+  width: 20%;
+}
+#cat{
+  width: 20%;
+}
+#container{
+  display: flex;
+   flex-wrap: wrap; 
+   justify-content: space-around;  
+}
+#cat{
+  margin-left: 35%;
+}
+button{
+  background-color: violet;
+}
